@@ -6,7 +6,7 @@ import data from './data.json';
 export default class App extends Component {
 
   render() {
-    const { title, name, events, afternote } = data;
+    const { title, name, events, afternote, missyou } = data;
     return (
       <div>
         <Header
@@ -18,6 +18,9 @@ export default class App extends Component {
           <blockquote>
             { afternote }
           </blockquote>
+          <div className="text-center">
+            <p> { missyou }</p>
+          </div>
         </div>
       </div>
     );

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ffc4e9a72023806a6c43e285e0f35b1",
+    "revision": "8e92b8e382873333202bbc89a7a437cc",
     "url": "./build/index.html"
   },
   {
-    "revision": "fb05a7728f61412c2739",
+    "revision": "0626ac7565025486941f",
     "url": "./build/static/css/main.d132c308.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./build/static/js/2.faab271f.chunk.js"
   },
   {
-    "revision": "fb05a7728f61412c2739",
-    "url": "./build/static/js/main.62d5d07c.chunk.js"
+    "revision": "0626ac7565025486941f",
+    "url": "./build/static/js/main.7e505ce5.chunk.js"
   },
   {
     "revision": "a95277f01883f9cb4248",
@@ -32,12 +32,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./build/static/media/arts_college.1342c0b9.jpg"
   },
   {
+    "revision": "e513c6d1d11a782854ccd16deb5be364",
+    "url": "./build/static/media/candle.e513c6d1.jpeg"
+  },
+  {
+    "revision": "1e830883143b8658c2552e94ca0026a3",
+    "url": "./build/static/media/children_1.1e830883.jpeg"
+  },
+  {
+    "revision": "0eba9342858c1bf52d606e2b222bfed0",
+    "url": "./build/static/media/hospital.0eba9342.jpeg"
+  },
+  {
     "revision": "3bb624ac45d69f049b894be0653648c5",
     "url": "./build/static/media/maitreya.3bb624ac.jpg"
   },
   {
     "revision": "4180de39a9d541e4257e778e8c367cb5",
     "url": "./build/static/media/maitreya_1.4180de39.jpg"
+  },
+  {
+    "revision": "309992fa94cf4c2f6e4a10630cb6244e",
+    "url": "./build/static/media/marriage.309992fa.jpg"
+  },
+  {
+    "revision": "9b1faeb696d8d4c46f3ef3a8a8636abe",
+    "url": "./build/static/media/marriage_1.9b1faeb6.jpeg"
   },
   {
     "revision": "26d9eb0e1f63084436c9399fe4624a8f",
